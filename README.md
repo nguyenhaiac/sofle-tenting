@@ -1,9 +1,11 @@
 # sofle-tenting
 
-Shield: [![CC BY 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+Please consider buying this design to support me at: https://ergomech.store/products/product-11/
+
+[![CC BY 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by-nc-sa].
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
